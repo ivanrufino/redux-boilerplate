@@ -9,7 +9,7 @@ For learning about React, Redux and more, see [My Blog](http://edsonjunior.io)
 Clone this repository, install all dependencies, and start the application:
 
 ```
-> git clone https://github.com/ebfjunior/redux-boilerplate.git
+> git clone https://github.com/ivanrufino/redux-boilerplate.git
 > cd redux-boilerplate
 > npm install
 > npm start
